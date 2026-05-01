@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "meow",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/meow" }
+  ],
+  "trailingSlash": false
+}
